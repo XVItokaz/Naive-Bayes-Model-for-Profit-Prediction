@@ -113,7 +113,7 @@ with st.sidebar:
 		default_index = 0,
 		)
 if selected=='Abstract':
-    st.title("SuperMarket Sales Abstract")
+    st.title("Årsta Express T313")
     st.markdown("In this case study, we will create a prediction model based on the sales dataset, focusing on different regions and product category and how consumers influence profits. I made a custom function that applies the Naive Bayes Algorithm to any dataset. I then used this function to predict profits in a sports gear sales dataset.")
 if selected=='Background Information':
     st.title("Background Information")
